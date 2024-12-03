@@ -67,4 +67,4 @@ Top-Selling SKUs: SKU10 (Skincare) and SKU94 (Cosmetics) are the top-performing 
   
 ## Further Insights: [Explore the Full Analysis](https://public.tableau.com/views/SupplyChainPerformance_17316045781940/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard snippet]()
+![Dashboard snippet](https://github.com/Mayreeobi/Supply-Chain-Analysis/blob/main/Overview.png)
