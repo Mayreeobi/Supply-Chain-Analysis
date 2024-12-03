@@ -65,6 +65,6 @@ Top-Selling SKUs: SKU10 (Skincare) and SKU94 (Cosmetics) are the top-performing 
 - Implement Real-Time Monitoring of Inventory and Supply Chain Metrics: A real-time inventory monitoring system can help in proactively managing stock levels, tracking inspection status, and optimizing lead times. This could prevent delays and reduce the risk of stockouts, especially for high-demand SKUs.
 
   
-## Further Insights: [Explore the Full Analysis]()
+## Further Insights: [Explore the Full Analysis](https://public.tableau.com/views/SupplyChainPerformance_17316045781940/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard snippet]()
