@@ -6,7 +6,7 @@
 - Logistics & Supplier Dashboard: Focuses on supplier performance, shipping analysis, and transportation methods. This dashboard is aimed at optimizing supplier collaboration and improving logistical efficiency.
 - Inventory Dashboard: Provides insights into stock levels and SKU performance, ensuring clear visibility into inventory trends.
 
-Interactive Dashboard: [Click Here](https://public.tableau.com/views/SupplyChainPerformance_17316045781940/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Interactive Dashboard: [Click Here]([https://public.tableau.com/views/SupplyChainPerformance_17316045781940/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/chinyere.obi8867/viz/SupplyChainPerformance_17316045781940/SalesProducts))
 
 ## Data Source
 - **Onyx Data 2024 November Challenge**
@@ -63,8 +63,5 @@ Top-Selling SKUs: SKU10 (Skincare) and SKU94 (Cosmetics) are the top-performing 
    -  For lower-cost SKUs, explore cost-saving measures in manufacturing or packaging to increase profit margins while maintaining customer satisfaction.
 - Detailed Gender-Based Marketing Strategies: Since both male and female customers contribute significantly to revenue, consider tailored marketing strategies to cater to these groups, especially focusing on skincare products that have broader appeal across genders.
 - Implement Real-Time Monitoring of Inventory and Supply Chain Metrics: A real-time inventory monitoring system can help in proactively managing stock levels, tracking inspection status, and optimizing lead times. This could prevent delays and reduce the risk of stockouts, especially for high-demand SKUs.
-
-  
-## Further Insights: [Explore the Full Analysis](https://public.tableau.com/views/SupplyChainPerformance_17316045781940/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard snippet](https://github.com/Mayreeobi/Supply-Chain-Analysis/blob/main/Overview.png)
