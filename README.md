@@ -6,7 +6,7 @@
 - Logistics & Supplier Dashboard: Focuses on supplier performance, shipping analysis, and transportation methods. This dashboard is aimed at optimizing supplier collaboration and improving logistical efficiency.
 - Inventory Dashboard: Provides insights into stock levels and SKU performance, ensuring clear visibility into inventory trends.
 
-Interactive Dashboard: [Click Here]([https://public.tableau.com/views/SupplyChainPerformance_17316045781940/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/chinyere.obi8867/viz/SupplyChainPerformance_17316045781940/SalesProducts))
+Link: [Interactive Dashboard](https://public.tableau.com/views/SupplyChainPerformance_17316045781940/SalesProducts?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Source
 - **Onyx Data 2024 November Challenge**
